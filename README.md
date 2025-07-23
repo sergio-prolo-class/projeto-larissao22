@@ -27,7 +27,7 @@ Para compilar e executar este projeto, você precisará de um compilador C (como
 1.  **Baixe o Código**:
     * Clone o repositório:
         ```bash
-        git clone [https://github.com/SEU_USUARIO/Luify-Music-Manager-C.git](https://github.com/PROJETO-LARISSAO22/Luify-Music-Manager-C.git)
+        git clone [https://github.com/SEU_USUARIO/Luify-Music-Manager-C.git](https://github.com/projeto-o22/Luify-Music-Manager-C.git)
         ```
     * Ou baixe o ZIP do repositório.
 
